@@ -1,0 +1,60 @@
+{
+  "SOAL": [
+    {
+      "id": "SOAL_1",
+      "img": "https://i2.wp.com/ummuhabibah.com/wp-content/uploads/2014/02/sky_1_1920x1080__5_.jpg?fit=1392%2C870&ssl=1",
+      "soal": "Apa warna langit?",
+      "nilai": 95,
+      "jawaban": "Biru",
+      "pilihan": {
+        "A": "Biru",
+        "B": "Merah",
+        "C": "Hijau",
+        "D": "Kuning",
+        "E": "Hitam"
+      }
+    },
+    {
+      "id": "SOAL_2",
+      "img": "https://th.bing.com/th/id/OIP.TqfQa5s1H4wBqiuo9G7DGwHaFj?rs=1&pid=ImgDetMain",
+      "soal": "Berapa 2 + 2?",
+      "nilai": 100,
+      "jawaban": "4",
+      "pilihan": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "E": "7"
+      }
+    },
+    {
+      "id": "SOAL_3",
+      "img": "https://th.bing.com/th/id/OIP.TqfQa5s1H4wBqiuo9G7DGwHaFj?rs=1&pid=ImgDetMain",
+      "soal": "Berapa 2 + 6?",
+      "nilai": 100,
+      "jawaban": "8",
+      "pilihan": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "E": "8"
+      }
+    },
+    {
+      "id": "SOAL_4",
+      "img": "https://th.bing.com/th/id/OIP.TqfQa5s1H4wBqiuo9G7DGwHaFj?rs=1&pid=ImgDetMain",
+      "soal": "Berapa 2 + 8?",
+      "nilai": 100,
+      "jawaban": "10",
+      "pilihan": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "10",
+        "E": "8"
+      }
+    }
+  ]
+}
