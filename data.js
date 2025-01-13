@@ -43,8 +43,7 @@ function createNewAnnouncement() {
 function resultSoal(soalSalah, dataSoal) {
   const totalSoal = dataSoal.length - soalSalah;
   return `<div className="">
-  <h2 class="">${soalSalah}/${dataSoal.length}</h2>
-  <h2 class="">Hasil Benar = ${totalSoal}</h2>
+  <h2 class="">Anda Benar ${totalSoal} Soal dari ${dataSoal.length} Soal.</h2>
   </div>`;
 }
 function jSoalSalah() {

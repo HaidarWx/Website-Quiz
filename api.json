@@ -2,58 +2,58 @@
   "SOAL": [
     {
       "id": "SOAL_1",
-      "img": "https://i2.wp.com/ummuhabibah.com/wp-content/uploads/2014/02/sky_1_1920x1080__5_.jpg?fit=1392%2C870&ssl=1",
-      "soal": "Apa warna langit?",
+      "img": "Image/soal-aldehid1.jpg",
+      "soal": "Apa nama senyawa dengan rumus struktur di atas?",
       "nilai": 95,
-      "jawaban": "Biru",
+      "jawaban": "5-etil-3,3,5-trimetilheptanol",
       "pilihan": {
-        "A": "Biru",
-        "B": "Merah",
-        "C": "Hijau",
-        "D": "Kuning",
-        "E": "Hitam"
+        "A": "5-etil-3,3,5-trimetilheksanol",
+        "B": "3,3,5,5-pentametilheksanol",
+        "C": "5-etil-3,3,5-trimetilheptana",
+        "D": "5-etil-3,3,5-trimetilheptanol",
+        "E": "3,3,5-trimetil-5-etilheptanol"
       }
     },
     {
       "id": "SOAL_2",
-      "img": "https://th.bing.com/th/id/OIP.TqfQa5s1H4wBqiuo9G7DGwHaFj?rs=1&pid=ImgDetMain",
-      "soal": "Berapa 2 + 2?",
+      "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQcJCQcJCQkJCwkJCQkJCQsJCwsMCwsLDA0QDBEODQ4MEhkSJRodJR0ZHxwpKRYlNzU2GioyPi0pMBk7IRP/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAC2AUQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAVEAEBAAAAAAAAAAAAAAAAAAAAgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCthCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//2Q==",
+      "soal": "Gugus fungsi Aldehid dan Keton secara berurut, yaitu:",
       "nilai": 100,
-      "jawaban": "4",
+      "jawaban": "-CHO dan -CO-",
       "pilihan": {
-        "A": "3",
-        "B": "4",
-        "C": "5",
-        "D": "6",
-        "E": "7"
+        "A": "-CO dan -CO-",
+        "B": "-CO- dan -CHO",
+        "C": "-CHO dan -CO-",
+        "D": "-CHO dan -C-",
+        "E": "-C- dan -CHO-"
       }
     },
     {
       "id": "SOAL_3",
-      "img": "https://th.bing.com/th/id/OIP.TqfQa5s1H4wBqiuo9G7DGwHaFj?rs=1&pid=ImgDetMain",
-      "soal": "Berapa 2 + 6?",
+      "img": "Image/soal-aldehid2.jpg",
+      "soal": "Apa nama senyawa dengan rumus struktur di atas?",
       "nilai": 100,
-      "jawaban": "8",
+      "jawaban": "2,4-dimetil-3-heksanon",
       "pilihan": {
-        "A": "3",
-        "B": "4",
-        "C": "5",
-        "D": "6",
-        "E": "8"
+        "A": "2,4-dimetilheksanol",
+        "B": "2,4-dimetil-3-heksanol",
+        "C": "2,4-dimetil-3-pentanon",
+        "D": "2,4-dimetil-3-heksanon",
+        "E": "2,4-dimetil-3-heksana"
       }
     },
     {
       "id": "SOAL_4",
-      "img": "https://th.bing.com/th/id/OIP.TqfQa5s1H4wBqiuo9G7DGwHaFj?rs=1&pid=ImgDetMain",
-      "soal": "Berapa 2 + 8?",
+      "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQcJCQcJCQkJCwkJCQkJCQsJCwsMCwsLDA0QDBEODQ4MEhkSJRodJR0ZHxwpKRYlNzU2GioyPi0pMBk7IRP/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAC2AUQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAVEAEBAAAAAAAAAAAAAAAAAAAAgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCthCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABCABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKUAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//2Q==",
+      "soal": "Aldehid yang kegunannya sebagai pengawet mayat?",
       "nilai": 100,
-      "jawaban": "10",
+      "jawaban": "Formaldehid",
       "pilihan": {
-        "A": "3",
-        "B": "4",
-        "C": "5",
-        "D": "10",
-        "E": "8"
+        "A": "Asetaldehid ",
+        "B": "Benzaldehid ",
+        "C": "Formaldehid",
+        "D": "Butiraldehid ",
+        "E": "Vanilin"
       }
     }
   ]
